@@ -1,0 +1,262 @@
+/* ------------ For Tablet Layout: 1024px. ----------- */
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+/* ------------- Home Page Style ----------- */
+
+  /* ----------- Menu ----------- */
+  .lor-main-menu.minified {
+    background-color: #28292e;
+    padding: 20px 0 0;
+    position: fixed;
+  }
+
+  .navbar-header {
+    float: none;
+    text-align: center;
+  }
+
+  .navbar-brand {
+    float: none;
+    font-size: 18px;
+    line-height: 20px;
+    padding: 15px;
+  }
+
+  .navbar-collapse {
+  	text-align: center;
+  }
+
+  .lor-main-menu .navbar-nav {
+    display: inline-block;
+    float: none;
+  }
+
+  .navbar-nav > li {
+    display: inline-block;
+    float: none;
+    margin-bottom: 5px;
+  }
+
+  /* ------------- Portfolio Style ------------- */
+  .lor-portfolio-items .lor-portfolio-item {
+    height: 280px;
+    overflow: hidden;
+    position: relative;
+    width: 33.33331%;
+  }
+}
+
+
+/* --------- For Tablet Layout: 768px. ---------- */
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+/* ---------- Home Page Style ---------- */
+
+  /* -------- Menu -------*/
+  .lor-main-menu.minified {
+    background-color: #28292e;
+    padding: 20px 0 0;
+    position: fixed;
+  }
+
+  .navbar-header {
+    float: none;
+    text-align: center;
+  }
+
+  .navbar-brand {
+    float: none;
+    font-size: 18px;
+    line-height: 20px;
+    padding: 15px;
+  }
+
+  .navbar-collapse {
+  	text-align: center;
+  }
+
+  .lor-main-menu .navbar-nav {
+    display: inline-block;
+    float: none;
+  }
+
+  .navbar-nav > li {
+    display: inline-block;
+    float: none;
+    margin-bottom: 5px;
+  }
+  .lor-blurb-icon-left-square .lor-icon {
+    height: 50px;
+    width: 50px;
+    margin-right: 20px;
+  }
+
+  .lor-blurb-icon-left-square .lor-blurb-text {
+    float: left;
+    width: 140px;
+  }
+
+  .lor-blurb-icon-left-square .lor-icon i {
+    font-size: 24px;
+    line-height: 50px;
+  }
+
+  /* ----------- Portfolio ------- */
+  .lor-portfolio-items .lor-portfolio-item {
+    height: 280px;
+    overflow: hidden;
+    position: relative;
+    width: 33.33331%;
+  }
+}
+/* ----- For Mobile Layout: 320px. ------- */
+
+@media only screen and (max-width: 767px) {
+
+/*---------- Home Page style --------*/
+  .lor-section-header {
+    margin-bottom: 60px;
+    text-align: center;
+  }
+  .navbar-toggle {
+    border: 1px solid #fff;
+  }
+
+  .navbar-toggle .icon-bar {
+    border-radius: 1px;
+    display: block;
+    height: 2px;
+    width: 22px;
+    background-color: #fff;
+  }
+
+  .navbar-collapse {
+    border-top: 0px solid transparent;
+    box-shadow: 0 0px 0 rgba(255, 255, 255, 0) inset;
+}
+
+  .lor-main-menu .navbar-nav {
+    float: none;
+    background-color: #28292e;
+    padding: 10px 0;
+  }
+
+  .lor-main-menu .navbar-nav li {
+    margin-bottom: 10px;
+  }
+
+  .lor-main-menu .navbar-nav li:last-child{
+  	margin-bottom: 0;
+  }
+  .lor-blurb-icon-only {
+    margin-bottom: 50px;
+  }
+
+  .lor-blurb-icon-only:last-child{
+  	margin-bottom: 0;
+  }
+  .lor-blurb-icon-left-square .lor-blurb-text {
+    float: left;
+    width: 61%;
+  }
+.lor-blurb-round-icon {
+  margin-bottom: 50px;
+  }
+
+.lor-blurb-round-icon:last-child{
+  margin-bottom: 0;
+ }
+
+  .lor-process-item {
+    text-align: center;
+    margin-bottom: 50px;
+  }
+
+  .lor-process-item:last-child{
+  	margin-bottom: 0;
+  }
+  .lor-cta-1 h2 {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+
+  .lor-cta-1 p{
+  	text-align: center;
+  	margin-bottom: 20px;
+  }
+
+  .lor-cta-1 .lor-cta-btn{
+  	text-align: center;
+  }
+
+  .lor-cta-1 .lor-cta-btn a{
+  	float: none;
+  }
+
+  /* ------ Home Page Slider --------- */
+.lor-main-slides h1.lor-slider-text-big {
+  color: #ffffff;
+  font-size: 24px;
+  margin-bottom: 25px;
+  margin-top: 0;
+  text-transform: uppercase;
+  white-space: normal !important;
+  text-align: center;
+  width: 100% !important;
+ }
+
+.lor-main-slides p {
+  color: #ffffff;
+  font-family: "Raleway",sans-serif;
+  font-size: 18px !important;
+  font-weight: 400;
+  margin-bottom: 0;
+  white-space: normal !important;
+  text-align: center;
+  margin-top: 20px;
+  width: 100% !important;
+ }
+
+
+  /* --------- Portfolio ---------- */
+  .lor-portfolio-items .lor-portfolio-item {
+    height: 280px;
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+  }
+  .lor-service-wrapper > div{
+    margin-bottom: 50px;
+  }
+
+  /* --------- Testimonials --------- */
+  .lor-bg-video-wrapper video {
+    bottom: 0;
+    height: 100%;
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    width: auto;
+  }
+
+  /* ---------- Contact Form ----------- */
+  .lor-contact-section .lor-contact-address {
+    margin-bottom: 50px;
+  }
+
+
+}
+
+
+/* Wide Mobile Layout: 480px. */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+
+/* ------- Home Page ------ */
+  /* ---------- Portfolio --------- */
+  .lor-portfolio-items .lor-portfolio-item {
+    width: 50%;
+  }
+
+}

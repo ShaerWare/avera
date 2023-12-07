@@ -1,0 +1,163 @@
+/* --------- color Style ---------- */
+
+
+span.lor-highlight-text{
+	color: #ff1744;
+}
+
+.lor-button-solid{
+	background-color: #ff1744;
+}
+
+.lor-button-solid:hover{
+	box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.62);
+}
+.lor-button-outline-light:hover{
+	background-color: #ff1744
+}
+
+.lor-button-outline-dark:hover{
+	background-color: #ff1744;
+}
+
+.lor-button-outline-round-dark:hover{
+	background-color: #ff1744;
+}
+
+.lor-btn-round{
+	background-color: #ff1744;
+}
+
+.lor-btn-round:hover{
+	box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.62);
+}
+
+.lor-button-outline-round:hover{
+	box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.62);
+}
+
+.lor-blurb-icon-only i{
+	color: #ff1744;
+}
+
+.lor-blurb-icon-only h3{
+	color: #ff1744
+}
+
+.lor-blurb-round-icon:hover .lor-icon{
+	background-color: #ff1744;
+	box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.62);
+}
+.lor-blurb-icon-left-square .lor-icon:hover {
+	background-color: #ff1744;
+}
+.lor-blurb-round-icon:hover h3{
+	color: #ff1744;
+}
+
+.lor-blurb-icon-left-square:hover .lor-blurb-text h3{
+	color: #ff1744;
+}
+
+.lor-blurb-icon-left-square:hover .lor-blurb-text h3:after{
+	background-color: #ff1744;
+}
+
+.lor-main-menu .navbar-nav li a:hover,
+.lor-main-menu .navbar-nav li.active a{
+    color: #ff1744;
+}
+
+.lor-slider .sp-selected-button {
+  background-color: #ff1744;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.62);
+}
+
+.lor-member-details h3{
+	color: #ff1744;
+}
+#scrollUp:hover {
+	background-color: #ff1744;
+	box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.62);
+}
+
+/* --------- Featured Work ---------- */
+.lor-port-work-details .lor-port-work-desc p a:hover{
+	color: #ff1744;
+}
+
+.lor-port-work-details .lor-port-work-desc h3{
+	color: #ff1744;
+}
+
+.lor-port-work-details .lor-port-work-desc .lor-like-btn a:hover{
+	color: #ff1744;
+}
+
+.lor-port-work-details .lor-port-work-desc .lor-like-btn a:hover i{
+	color: #ff1744;
+}
+
+/* --------- Portfolio Style -----------*/
+.lor-portfolio-filter-btn-group ul li a.selected{
+	background-color: #ff1744;
+}
+
+.lor-portfolio-item .lor-portfolio-details h3{
+	color: #ff1744;
+}
+
+.lor-portfolio-item .lor-portfolio-details p a:hover{
+	color: #ff1744;
+}
+
+.lor-portfolio-btn-wrapper a.lor-portfolio-btn:hover{
+	color: #ffffff;
+	background-color: #ff1744;
+	border: 2px solid transparent;
+}
+.lor-portfolio-details .lor-portfolio-meta-btn ul li:hover {
+	background-color: #ff1744;
+	box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.62);
+}
+.lor-portfolio-filter-btn-group ul li a {
+	border: 1px solid #ff1744;
+	margin: 2px;
+    color: #333;
+}
+.lor-custom-sec-text ul li i{
+	color: #ff1744;
+}
+.lor-process-item:hover h3{
+	color: #ff1744;
+}
+.lor-pricing-plans a.lor-signup-btn {
+	background-color: #ff1744;
+}
+
+.lor-pricing-plans a.lor-signup-btn:hover{
+	box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.62);
+}
+.owl-theme .owl-controls .owl-page span {
+  border: 1px solid #ff1744;
+}
+
+.owl-theme .owl-controls .owl-page.active span {
+  background-color: #ff1744;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.62);
+}
+
+.lor-footer-social-info li:hover {
+	background-color: #ff1744;
+	box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.62);
+}
+/* ------- Contact Style ------ */
+.lor-contact-section .lor-contact-form input[type="submit"] {
+	background-color: #ff1744;
+}
+.lor-contact-section .lor-contact-form input[type="submit"]:hover {
+	box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.62);
+}
+.lor-contact-section .lor-contact-address ul li i {
+	background-color: #ff1744;
+}
